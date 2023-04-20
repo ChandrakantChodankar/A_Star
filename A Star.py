@@ -1,5 +1,3 @@
-# A* star Algorithm
-
 tree = [['A', 'H', 7, 0],
         ['A', 'B', 1, 3],
         ['A', 'C', 2, 4],
